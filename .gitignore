@@ -3,6 +3,6 @@ __pycache__/
 *.pt
 *.tif
 *.tiff
+*.zip
 data/
-results/
 .DS_Store

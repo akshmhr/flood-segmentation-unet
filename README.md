@@ -20,3 +20,9 @@ This project implements a **U-Net deep learning model** for detecting flooded re
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
+## 🖼️ Example Results
+
+| Input Image | Ground Truth | Predicted Flood Mask |
+|-------------|--------------|-----------------------|
+| ![](results/results/sample_prediction.png)
+
