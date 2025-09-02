@@ -18,8 +18,6 @@ This project implements a **U-Net deep learning model** for detecting flooded re
 - `results/` – Example predictions  
 
 ## Results
-| Input Image | Ground Truth | Predicted Flood Mask |
-|-------------|--------------|-----------------------|
 | ![](results/sample_prediction.png)
 
 ## ⚙️ Installation
