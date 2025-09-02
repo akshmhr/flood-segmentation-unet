@@ -17,12 +17,12 @@ This project implements a **U-Net deep learning model** for detecting flooded re
 - `src/train.py` – Training loop, checkpointing, visualization  
 - `results/` – Example predictions  
 
+## Results
+| Input Image | Ground Truth | Predicted Flood Mask |
+|-------------|--------------|-----------------------|
+| ![](results/sample_prediction.png)
+
 ## ⚙️ Installation
 ```bash
 pip install -r requirements.txt
-## 🖼️ Example Results
-
-| Input Image | Ground Truth | Predicted Flood Mask |
-|-------------|--------------|-----------------------|
-| ![](results/results/sample_prediction.png)
 
